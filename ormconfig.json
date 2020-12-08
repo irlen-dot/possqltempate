@@ -1,0 +1,12 @@
+{
+  "name": "default",
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "irlenturlykhanov",
+  "password": "1234",
+  "database": "typegraphqlexample",
+  "synchronize": true,
+  "logging": true,
+  "entities": ["src/entity/*.*"]
+}
